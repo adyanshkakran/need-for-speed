@@ -1,0 +1,11 @@
+Model Information:
+* title:	doc hudson from cars
+* source:	https://sketchfab.com/3d-models/doc-hudson-from-cars-59c523422ecc498eb3a420a102b840f1
+* author:	Kyle.withem (https://sketchfab.com/Kyle.withem)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "doc hudson from cars" (https://sketchfab.com/3d-models/doc-hudson-from-cars-59c523422ecc498eb3a420a102b840f1) by Kyle.withem (https://sketchfab.com/Kyle.withem) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
